@@ -1,0 +1,72 @@
+meta.foundation-data-attribute-namespace {
+    font-family: false;
+}
+
+body {
+    
+}
+
+#appContent {
+    white-space: nowrap;
+    background-color: #676767;
+    height: 100%;
+}
+
+.glow-input {
+    border: 2px solid #dadada;
+    border-radius: 7px;
+}
+
+.glow-input:focus { 
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+label {
+    color: #f2f2f2;
+}
+
+.customPanel {
+    background-color: #6E6E6E;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.ghostXS {
+    height: 0.5em;
+}
+
+.panel {
+    border: none;
+}
+
+.row {
+    
+}
+
+.shadowPanel {
+    -webkit-box-shadow: 0px 5px 10px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 5px 10px -6px rgba(0,0,0,0.75);
+    box-shadow: 0px 5px 10px -6px rgba(0,0,0,0.75);
+}
+
+.accordion .accordion-navigation.active > a, .accordion dd.active > a {
+    background-color: #007095;
+    color: #E8E8E8;
+}
+
+.accordion .accordion-navigation > a, .accordion dd > a {
+    background-color: #008CBA;
+    color: #E8E8E8;
+    padding: 5px;
+    font-size: 11px;
+}
+
+.accordion .accordion-navigation > a:hover, .accordion dd > a:hover {
+    background-color: #007095;
+}
+
+label {
+    color: #4d4d4d;
+}
+
